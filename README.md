@@ -2,7 +2,7 @@
 
 此项目用来收集来自博客的反馈信息。
 
-This repo is used for collecting feedback information from my blog.
+This repo is used for collecting feedback from my blog.
 
 
 
